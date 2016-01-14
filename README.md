@@ -17,13 +17,20 @@ Implement a file system that manages processes in your system (similar to what y
 ####Suggestion to start:
 
 - Start the assignment as soon as possible.
+
 - Download lastest version of FUSE: http://fuse.sourceforge.net [2]
+
 - Run the hello example.
+
 - Understand the hello example: 
 http://sourceforge.net/apps/mediawiki/fuse/index.php?title=Hello_World [3]
+
 - Understand this chart: http://en.wikipedia.org/wiki/File:FUSE_structure.svg [4]
+
 - Read FUSE APIs and start implementation.
+
 - You are free to make any assumption to get the task done however be sure to make it clear in your report.
+
 - You could use any language for this project.
 
  
