@@ -42,7 +42,7 @@ http://sourceforge.net/apps/mediawiki/fuse/index.php?title=Hello_World [3]
 + All must be compressed into one file with this format: 
  
 
-####CS6223_Spring2014_Assignment3_YourID_YourName
+####CS6223_Fall2015_Assignment3_YourID_YourName
  [1] http://fuse.sourceforge.net
 
  [2] http://sourceforge.net/apps/mediawiki/fuse/index.php?title=Hello_World
